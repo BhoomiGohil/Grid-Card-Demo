@@ -23,8 +23,8 @@ To view the website locally, follow these steps:
 1. Clone the repository or download the files.
 
 ```
-git clone https://github.com/BhoomiGohil/Grid-CardsUI.git
-cd Grid-CardsUI
+git clone https://github.com/BhoomiGohil/Grid-Card-Demo.git
+cd Grid-Card-Demo
 ```
 
 2. Open the `Index.html` file in your web browser.
